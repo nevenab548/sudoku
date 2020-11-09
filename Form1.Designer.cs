@@ -123,7 +123,7 @@
             // 
             // p00
             // 
-            this.p00.Location = new System.Drawing.Point(387, 38);
+            this.p00.Location = new System.Drawing.Point(491, 35);
             this.p00.Multiline = true;
             this.p00.Name = "p00";
             this.p00.Size = new System.Drawing.Size(35, 35);
@@ -132,7 +132,7 @@
             // 
             // p22
             // 
-            this.p22.Location = new System.Drawing.Point(469, 120);
+            this.p22.Location = new System.Drawing.Point(573, 117);
             this.p22.Multiline = true;
             this.p22.Name = "p22";
             this.p22.Size = new System.Drawing.Size(35, 35);
@@ -141,7 +141,7 @@
             // 
             // p12
             // 
-            this.p12.Location = new System.Drawing.Point(469, 79);
+            this.p12.Location = new System.Drawing.Point(573, 76);
             this.p12.Multiline = true;
             this.p12.Name = "p12";
             this.p12.Size = new System.Drawing.Size(35, 35);
@@ -150,7 +150,7 @@
             // 
             // p03
             // 
-            this.p03.Location = new System.Drawing.Point(510, 38);
+            this.p03.Location = new System.Drawing.Point(614, 35);
             this.p03.Multiline = true;
             this.p03.Name = "p03";
             this.p03.Size = new System.Drawing.Size(35, 35);
@@ -159,7 +159,7 @@
             // 
             // p04
             // 
-            this.p04.Location = new System.Drawing.Point(551, 38);
+            this.p04.Location = new System.Drawing.Point(655, 35);
             this.p04.Multiline = true;
             this.p04.Name = "p04";
             this.p04.Size = new System.Drawing.Size(35, 35);
@@ -168,7 +168,7 @@
             // 
             // p05
             // 
-            this.p05.Location = new System.Drawing.Point(592, 38);
+            this.p05.Location = new System.Drawing.Point(696, 35);
             this.p05.Multiline = true;
             this.p05.Name = "p05";
             this.p05.Size = new System.Drawing.Size(35, 35);
@@ -177,7 +177,7 @@
             // 
             // p02
             // 
-            this.p02.Location = new System.Drawing.Point(469, 38);
+            this.p02.Location = new System.Drawing.Point(573, 35);
             this.p02.Multiline = true;
             this.p02.Name = "p02";
             this.p02.Size = new System.Drawing.Size(35, 35);
@@ -186,7 +186,7 @@
             // 
             // p01
             // 
-            this.p01.Location = new System.Drawing.Point(428, 38);
+            this.p01.Location = new System.Drawing.Point(532, 35);
             this.p01.Multiline = true;
             this.p01.Name = "p01";
             this.p01.Size = new System.Drawing.Size(35, 35);
@@ -195,7 +195,7 @@
             // 
             // p11
             // 
-            this.p11.Location = new System.Drawing.Point(428, 79);
+            this.p11.Location = new System.Drawing.Point(532, 76);
             this.p11.Multiline = true;
             this.p11.Name = "p11";
             this.p11.Size = new System.Drawing.Size(35, 35);
@@ -204,7 +204,7 @@
             // 
             // p20
             // 
-            this.p20.Location = new System.Drawing.Point(387, 120);
+            this.p20.Location = new System.Drawing.Point(491, 117);
             this.p20.Multiline = true;
             this.p20.Name = "p20";
             this.p20.Size = new System.Drawing.Size(35, 35);
@@ -213,7 +213,7 @@
             // 
             // p21
             // 
-            this.p21.Location = new System.Drawing.Point(428, 120);
+            this.p21.Location = new System.Drawing.Point(532, 117);
             this.p21.Multiline = true;
             this.p21.Name = "p21";
             this.p21.Size = new System.Drawing.Size(35, 35);
@@ -222,7 +222,7 @@
             // 
             // p10
             // 
-            this.p10.Location = new System.Drawing.Point(387, 79);
+            this.p10.Location = new System.Drawing.Point(491, 76);
             this.p10.Multiline = true;
             this.p10.Name = "p10";
             this.p10.Size = new System.Drawing.Size(35, 35);
@@ -231,7 +231,7 @@
             // 
             // p08
             // 
-            this.p08.Location = new System.Drawing.Point(715, 38);
+            this.p08.Location = new System.Drawing.Point(819, 35);
             this.p08.Multiline = true;
             this.p08.Name = "p08";
             this.p08.Size = new System.Drawing.Size(35, 35);
@@ -240,7 +240,7 @@
             // 
             // p07
             // 
-            this.p07.Location = new System.Drawing.Point(674, 38);
+            this.p07.Location = new System.Drawing.Point(778, 35);
             this.p07.Multiline = true;
             this.p07.Name = "p07";
             this.p07.Size = new System.Drawing.Size(35, 35);
@@ -249,7 +249,7 @@
             // 
             // p06
             // 
-            this.p06.Location = new System.Drawing.Point(633, 38);
+            this.p06.Location = new System.Drawing.Point(737, 35);
             this.p06.Multiline = true;
             this.p06.Name = "p06";
             this.p06.Size = new System.Drawing.Size(35, 35);
@@ -258,7 +258,7 @@
             // 
             // p30
             // 
-            this.p30.Location = new System.Drawing.Point(387, 161);
+            this.p30.Location = new System.Drawing.Point(491, 158);
             this.p30.Multiline = true;
             this.p30.Name = "p30";
             this.p30.Size = new System.Drawing.Size(35, 35);
@@ -267,7 +267,7 @@
             // 
             // p24
             // 
-            this.p24.Location = new System.Drawing.Point(551, 120);
+            this.p24.Location = new System.Drawing.Point(655, 117);
             this.p24.Multiline = true;
             this.p24.Name = "p24";
             this.p24.Size = new System.Drawing.Size(35, 35);
@@ -276,7 +276,7 @@
             // 
             // p15
             // 
-            this.p15.Location = new System.Drawing.Point(592, 79);
+            this.p15.Location = new System.Drawing.Point(696, 76);
             this.p15.Multiline = true;
             this.p15.Name = "p15";
             this.p15.Size = new System.Drawing.Size(35, 35);
@@ -285,7 +285,7 @@
             // 
             // p14
             // 
-            this.p14.Location = new System.Drawing.Point(551, 79);
+            this.p14.Location = new System.Drawing.Point(655, 76);
             this.p14.Multiline = true;
             this.p14.Name = "p14";
             this.p14.Size = new System.Drawing.Size(35, 35);
@@ -294,7 +294,7 @@
             // 
             // p23
             // 
-            this.p23.Location = new System.Drawing.Point(510, 120);
+            this.p23.Location = new System.Drawing.Point(614, 117);
             this.p23.Multiline = true;
             this.p23.Name = "p23";
             this.p23.Size = new System.Drawing.Size(35, 35);
@@ -303,7 +303,7 @@
             // 
             // p13
             // 
-            this.p13.Location = new System.Drawing.Point(510, 79);
+            this.p13.Location = new System.Drawing.Point(614, 76);
             this.p13.Multiline = true;
             this.p13.Name = "p13";
             this.p13.Size = new System.Drawing.Size(35, 35);
@@ -312,7 +312,7 @@
             // 
             // p27
             // 
-            this.p27.Location = new System.Drawing.Point(674, 120);
+            this.p27.Location = new System.Drawing.Point(778, 117);
             this.p27.Multiline = true;
             this.p27.Name = "p27";
             this.p27.Size = new System.Drawing.Size(35, 35);
@@ -321,7 +321,7 @@
             // 
             // p26
             // 
-            this.p26.Location = new System.Drawing.Point(633, 120);
+            this.p26.Location = new System.Drawing.Point(737, 117);
             this.p26.Multiline = true;
             this.p26.Name = "p26";
             this.p26.Size = new System.Drawing.Size(35, 35);
@@ -330,7 +330,7 @@
             // 
             // p25
             // 
-            this.p25.Location = new System.Drawing.Point(592, 120);
+            this.p25.Location = new System.Drawing.Point(696, 117);
             this.p25.Multiline = true;
             this.p25.Name = "p25";
             this.p25.Size = new System.Drawing.Size(35, 35);
@@ -339,7 +339,7 @@
             // 
             // p33
             // 
-            this.p33.Location = new System.Drawing.Point(510, 161);
+            this.p33.Location = new System.Drawing.Point(614, 158);
             this.p33.Multiline = true;
             this.p33.Name = "p33";
             this.p33.Size = new System.Drawing.Size(35, 35);
@@ -348,7 +348,7 @@
             // 
             // p40
             // 
-            this.p40.Location = new System.Drawing.Point(387, 202);
+            this.p40.Location = new System.Drawing.Point(491, 199);
             this.p40.Multiline = true;
             this.p40.Name = "p40";
             this.p40.Size = new System.Drawing.Size(35, 35);
@@ -357,7 +357,7 @@
             // 
             // p18
             // 
-            this.p18.Location = new System.Drawing.Point(715, 79);
+            this.p18.Location = new System.Drawing.Point(819, 76);
             this.p18.Multiline = true;
             this.p18.Name = "p18";
             this.p18.Size = new System.Drawing.Size(35, 35);
@@ -366,7 +366,7 @@
             // 
             // p17
             // 
-            this.p17.Location = new System.Drawing.Point(674, 79);
+            this.p17.Location = new System.Drawing.Point(778, 76);
             this.p17.Multiline = true;
             this.p17.Name = "p17";
             this.p17.Size = new System.Drawing.Size(35, 35);
@@ -375,7 +375,7 @@
             // 
             // p16
             // 
-            this.p16.Location = new System.Drawing.Point(633, 79);
+            this.p16.Location = new System.Drawing.Point(737, 76);
             this.p16.Multiline = true;
             this.p16.Name = "p16";
             this.p16.Size = new System.Drawing.Size(35, 35);
@@ -384,7 +384,7 @@
             // 
             // p32
             // 
-            this.p32.Location = new System.Drawing.Point(469, 161);
+            this.p32.Location = new System.Drawing.Point(573, 158);
             this.p32.Multiline = true;
             this.p32.Name = "p32";
             this.p32.Size = new System.Drawing.Size(35, 35);
@@ -393,7 +393,7 @@
             // 
             // p31
             // 
-            this.p31.Location = new System.Drawing.Point(428, 161);
+            this.p31.Location = new System.Drawing.Point(532, 158);
             this.p31.Multiline = true;
             this.p31.Name = "p31";
             this.p31.Size = new System.Drawing.Size(35, 35);
@@ -402,7 +402,7 @@
             // 
             // p36
             // 
-            this.p36.Location = new System.Drawing.Point(633, 161);
+            this.p36.Location = new System.Drawing.Point(737, 158);
             this.p36.Multiline = true;
             this.p36.Name = "p36";
             this.p36.Size = new System.Drawing.Size(35, 35);
@@ -411,7 +411,7 @@
             // 
             // p35
             // 
-            this.p35.Location = new System.Drawing.Point(592, 161);
+            this.p35.Location = new System.Drawing.Point(696, 158);
             this.p35.Multiline = true;
             this.p35.Name = "p35";
             this.p35.Size = new System.Drawing.Size(35, 35);
@@ -420,7 +420,7 @@
             // 
             // p34
             // 
-            this.p34.Location = new System.Drawing.Point(551, 161);
+            this.p34.Location = new System.Drawing.Point(655, 158);
             this.p34.Multiline = true;
             this.p34.Name = "p34";
             this.p34.Size = new System.Drawing.Size(35, 35);
@@ -429,7 +429,7 @@
             // 
             // p28
             // 
-            this.p28.Location = new System.Drawing.Point(715, 120);
+            this.p28.Location = new System.Drawing.Point(819, 117);
             this.p28.Multiline = true;
             this.p28.Name = "p28";
             this.p28.Size = new System.Drawing.Size(35, 35);
@@ -438,7 +438,7 @@
             // 
             // p42
             // 
-            this.p42.Location = new System.Drawing.Point(469, 202);
+            this.p42.Location = new System.Drawing.Point(573, 199);
             this.p42.Multiline = true;
             this.p42.Name = "p42";
             this.p42.Size = new System.Drawing.Size(35, 35);
@@ -447,7 +447,7 @@
             // 
             // p41
             // 
-            this.p41.Location = new System.Drawing.Point(428, 202);
+            this.p41.Location = new System.Drawing.Point(532, 199);
             this.p41.Multiline = true;
             this.p41.Name = "p41";
             this.p41.Size = new System.Drawing.Size(35, 35);
@@ -456,7 +456,7 @@
             // 
             // p38
             // 
-            this.p38.Location = new System.Drawing.Point(715, 161);
+            this.p38.Location = new System.Drawing.Point(819, 158);
             this.p38.Multiline = true;
             this.p38.Name = "p38";
             this.p38.Size = new System.Drawing.Size(35, 35);
@@ -465,7 +465,7 @@
             // 
             // p37
             // 
-            this.p37.Location = new System.Drawing.Point(674, 161);
+            this.p37.Location = new System.Drawing.Point(778, 158);
             this.p37.Multiline = true;
             this.p37.Name = "p37";
             this.p37.Size = new System.Drawing.Size(35, 35);
@@ -474,7 +474,7 @@
             // 
             // p56
             // 
-            this.p56.Location = new System.Drawing.Point(633, 243);
+            this.p56.Location = new System.Drawing.Point(737, 240);
             this.p56.Multiline = true;
             this.p56.Name = "p56";
             this.p56.Size = new System.Drawing.Size(35, 35);
@@ -483,7 +483,7 @@
             // 
             // p57
             // 
-            this.p57.Location = new System.Drawing.Point(674, 243);
+            this.p57.Location = new System.Drawing.Point(778, 240);
             this.p57.Multiline = true;
             this.p57.Name = "p57";
             this.p57.Size = new System.Drawing.Size(35, 35);
@@ -492,7 +492,7 @@
             // 
             // p58
             // 
-            this.p58.Location = new System.Drawing.Point(715, 243);
+            this.p58.Location = new System.Drawing.Point(819, 240);
             this.p58.Multiline = true;
             this.p58.Name = "p58";
             this.p58.Size = new System.Drawing.Size(35, 35);
@@ -501,7 +501,7 @@
             // 
             // p48
             // 
-            this.p48.Location = new System.Drawing.Point(715, 202);
+            this.p48.Location = new System.Drawing.Point(819, 199);
             this.p48.Multiline = true;
             this.p48.Name = "p48";
             this.p48.Size = new System.Drawing.Size(35, 35);
@@ -510,7 +510,7 @@
             // 
             // p47
             // 
-            this.p47.Location = new System.Drawing.Point(674, 202);
+            this.p47.Location = new System.Drawing.Point(778, 199);
             this.p47.Multiline = true;
             this.p47.Name = "p47";
             this.p47.Size = new System.Drawing.Size(35, 35);
@@ -519,7 +519,7 @@
             // 
             // p46
             // 
-            this.p46.Location = new System.Drawing.Point(633, 202);
+            this.p46.Location = new System.Drawing.Point(737, 199);
             this.p46.Multiline = true;
             this.p46.Name = "p46";
             this.p46.Size = new System.Drawing.Size(35, 35);
@@ -528,7 +528,7 @@
             // 
             // p45
             // 
-            this.p45.Location = new System.Drawing.Point(592, 202);
+            this.p45.Location = new System.Drawing.Point(696, 199);
             this.p45.Multiline = true;
             this.p45.Name = "p45";
             this.p45.Size = new System.Drawing.Size(35, 35);
@@ -537,7 +537,7 @@
             // 
             // p44
             // 
-            this.p44.Location = new System.Drawing.Point(551, 202);
+            this.p44.Location = new System.Drawing.Point(655, 199);
             this.p44.Multiline = true;
             this.p44.Name = "p44";
             this.p44.Size = new System.Drawing.Size(35, 35);
@@ -546,7 +546,7 @@
             // 
             // p43
             // 
-            this.p43.Location = new System.Drawing.Point(510, 202);
+            this.p43.Location = new System.Drawing.Point(614, 199);
             this.p43.Multiline = true;
             this.p43.Name = "p43";
             this.p43.Size = new System.Drawing.Size(35, 35);
@@ -555,7 +555,7 @@
             // 
             // p83
             // 
-            this.p83.Location = new System.Drawing.Point(510, 366);
+            this.p83.Location = new System.Drawing.Point(614, 363);
             this.p83.Multiline = true;
             this.p83.Name = "p83";
             this.p83.Size = new System.Drawing.Size(35, 35);
@@ -564,7 +564,7 @@
             // 
             // p84
             // 
-            this.p84.Location = new System.Drawing.Point(551, 366);
+            this.p84.Location = new System.Drawing.Point(655, 363);
             this.p84.Multiline = true;
             this.p84.Name = "p84";
             this.p84.Size = new System.Drawing.Size(35, 35);
@@ -573,7 +573,7 @@
             // 
             // p85
             // 
-            this.p85.Location = new System.Drawing.Point(592, 366);
+            this.p85.Location = new System.Drawing.Point(696, 363);
             this.p85.Multiline = true;
             this.p85.Name = "p85";
             this.p85.Size = new System.Drawing.Size(35, 35);
@@ -582,7 +582,7 @@
             // 
             // p86
             // 
-            this.p86.Location = new System.Drawing.Point(633, 366);
+            this.p86.Location = new System.Drawing.Point(737, 363);
             this.p86.Multiline = true;
             this.p86.Name = "p86";
             this.p86.Size = new System.Drawing.Size(35, 35);
@@ -591,7 +591,7 @@
             // 
             // p87
             // 
-            this.p87.Location = new System.Drawing.Point(674, 366);
+            this.p87.Location = new System.Drawing.Point(778, 363);
             this.p87.Multiline = true;
             this.p87.Name = "p87";
             this.p87.Size = new System.Drawing.Size(35, 35);
@@ -600,7 +600,7 @@
             // 
             // p88
             // 
-            this.p88.Location = new System.Drawing.Point(715, 366);
+            this.p88.Location = new System.Drawing.Point(819, 363);
             this.p88.Multiline = true;
             this.p88.Name = "p88";
             this.p88.Size = new System.Drawing.Size(35, 35);
@@ -609,7 +609,7 @@
             // 
             // p78
             // 
-            this.p78.Location = new System.Drawing.Point(715, 325);
+            this.p78.Location = new System.Drawing.Point(819, 322);
             this.p78.Multiline = true;
             this.p78.Name = "p78";
             this.p78.Size = new System.Drawing.Size(35, 35);
@@ -618,7 +618,7 @@
             // 
             // p68
             // 
-            this.p68.Location = new System.Drawing.Point(715, 284);
+            this.p68.Location = new System.Drawing.Point(819, 281);
             this.p68.Multiline = true;
             this.p68.Name = "p68";
             this.p68.Size = new System.Drawing.Size(35, 35);
@@ -627,7 +627,7 @@
             // 
             // p50
             // 
-            this.p50.Location = new System.Drawing.Point(387, 243);
+            this.p50.Location = new System.Drawing.Point(491, 240);
             this.p50.Multiline = true;
             this.p50.Name = "p50";
             this.p50.Size = new System.Drawing.Size(35, 35);
@@ -636,7 +636,7 @@
             // 
             // p60
             // 
-            this.p60.Location = new System.Drawing.Point(387, 284);
+            this.p60.Location = new System.Drawing.Point(491, 281);
             this.p60.Multiline = true;
             this.p60.Name = "p60";
             this.p60.Size = new System.Drawing.Size(35, 35);
@@ -645,7 +645,7 @@
             // 
             // p70
             // 
-            this.p70.Location = new System.Drawing.Point(387, 325);
+            this.p70.Location = new System.Drawing.Point(491, 322);
             this.p70.Multiline = true;
             this.p70.Name = "p70";
             this.p70.Size = new System.Drawing.Size(35, 35);
@@ -654,7 +654,7 @@
             // 
             // p80
             // 
-            this.p80.Location = new System.Drawing.Point(387, 366);
+            this.p80.Location = new System.Drawing.Point(491, 363);
             this.p80.Multiline = true;
             this.p80.Name = "p80";
             this.p80.Size = new System.Drawing.Size(35, 35);
@@ -663,7 +663,7 @@
             // 
             // p81
             // 
-            this.p81.Location = new System.Drawing.Point(428, 366);
+            this.p81.Location = new System.Drawing.Point(532, 363);
             this.p81.Multiline = true;
             this.p81.Name = "p81";
             this.p81.Size = new System.Drawing.Size(35, 35);
@@ -672,7 +672,7 @@
             // 
             // p82
             // 
-            this.p82.Location = new System.Drawing.Point(469, 366);
+            this.p82.Location = new System.Drawing.Point(573, 363);
             this.p82.Multiline = true;
             this.p82.Name = "p82";
             this.p82.Size = new System.Drawing.Size(35, 35);
@@ -681,7 +681,7 @@
             // 
             // p73
             // 
-            this.p73.Location = new System.Drawing.Point(510, 325);
+            this.p73.Location = new System.Drawing.Point(614, 322);
             this.p73.Multiline = true;
             this.p73.Name = "p73";
             this.p73.Size = new System.Drawing.Size(35, 35);
@@ -690,7 +690,7 @@
             // 
             // p53
             // 
-            this.p53.Location = new System.Drawing.Point(510, 243);
+            this.p53.Location = new System.Drawing.Point(614, 240);
             this.p53.Multiline = true;
             this.p53.Name = "p53";
             this.p53.Size = new System.Drawing.Size(35, 35);
@@ -699,7 +699,7 @@
             // 
             // p54
             // 
-            this.p54.Location = new System.Drawing.Point(551, 243);
+            this.p54.Location = new System.Drawing.Point(655, 240);
             this.p54.Multiline = true;
             this.p54.Name = "p54";
             this.p54.Size = new System.Drawing.Size(35, 35);
@@ -708,7 +708,7 @@
             // 
             // p55
             // 
-            this.p55.Location = new System.Drawing.Point(592, 243);
+            this.p55.Location = new System.Drawing.Point(696, 240);
             this.p55.Multiline = true;
             this.p55.Name = "p55";
             this.p55.Size = new System.Drawing.Size(35, 35);
@@ -717,7 +717,7 @@
             // 
             // p77
             // 
-            this.p77.Location = new System.Drawing.Point(674, 325);
+            this.p77.Location = new System.Drawing.Point(778, 322);
             this.p77.Multiline = true;
             this.p77.Name = "p77";
             this.p77.Size = new System.Drawing.Size(35, 35);
@@ -726,7 +726,7 @@
             // 
             // p67
             // 
-            this.p67.Location = new System.Drawing.Point(674, 284);
+            this.p67.Location = new System.Drawing.Point(778, 281);
             this.p67.Multiline = true;
             this.p67.Name = "p67";
             this.p67.Size = new System.Drawing.Size(35, 35);
@@ -735,7 +735,7 @@
             // 
             // p61
             // 
-            this.p61.Location = new System.Drawing.Point(428, 284);
+            this.p61.Location = new System.Drawing.Point(532, 281);
             this.p61.Multiline = true;
             this.p61.Name = "p61";
             this.p61.Size = new System.Drawing.Size(35, 35);
@@ -744,7 +744,7 @@
             // 
             // p51
             // 
-            this.p51.Location = new System.Drawing.Point(428, 243);
+            this.p51.Location = new System.Drawing.Point(532, 240);
             this.p51.Multiline = true;
             this.p51.Name = "p51";
             this.p51.Size = new System.Drawing.Size(35, 35);
@@ -753,7 +753,7 @@
             // 
             // p52
             // 
-            this.p52.Location = new System.Drawing.Point(469, 243);
+            this.p52.Location = new System.Drawing.Point(573, 240);
             this.p52.Multiline = true;
             this.p52.Name = "p52";
             this.p52.Size = new System.Drawing.Size(35, 35);
@@ -762,7 +762,7 @@
             // 
             // p75
             // 
-            this.p75.Location = new System.Drawing.Point(592, 325);
+            this.p75.Location = new System.Drawing.Point(696, 322);
             this.p75.Multiline = true;
             this.p75.Name = "p75";
             this.p75.Size = new System.Drawing.Size(35, 35);
@@ -771,7 +771,7 @@
             // 
             // p65
             // 
-            this.p65.Location = new System.Drawing.Point(592, 284);
+            this.p65.Location = new System.Drawing.Point(696, 281);
             this.p65.Multiline = true;
             this.p65.Name = "p65";
             this.p65.Size = new System.Drawing.Size(35, 35);
@@ -780,7 +780,7 @@
             // 
             // p76
             // 
-            this.p76.Location = new System.Drawing.Point(633, 325);
+            this.p76.Location = new System.Drawing.Point(737, 322);
             this.p76.Multiline = true;
             this.p76.Name = "p76";
             this.p76.Size = new System.Drawing.Size(35, 35);
@@ -789,7 +789,7 @@
             // 
             // p66
             // 
-            this.p66.Location = new System.Drawing.Point(633, 284);
+            this.p66.Location = new System.Drawing.Point(737, 281);
             this.p66.Multiline = true;
             this.p66.Name = "p66";
             this.p66.Size = new System.Drawing.Size(35, 35);
@@ -798,7 +798,7 @@
             // 
             // p72
             // 
-            this.p72.Location = new System.Drawing.Point(469, 325);
+            this.p72.Location = new System.Drawing.Point(573, 322);
             this.p72.Multiline = true;
             this.p72.Name = "p72";
             this.p72.Size = new System.Drawing.Size(35, 35);
@@ -807,7 +807,7 @@
             // 
             // p64
             // 
-            this.p64.Location = new System.Drawing.Point(551, 284);
+            this.p64.Location = new System.Drawing.Point(655, 281);
             this.p64.Multiline = true;
             this.p64.Name = "p64";
             this.p64.Size = new System.Drawing.Size(35, 35);
@@ -816,7 +816,7 @@
             // 
             // p63
             // 
-            this.p63.Location = new System.Drawing.Point(510, 284);
+            this.p63.Location = new System.Drawing.Point(614, 281);
             this.p63.Multiline = true;
             this.p63.Name = "p63";
             this.p63.Size = new System.Drawing.Size(35, 35);
@@ -825,7 +825,7 @@
             // 
             // p71
             // 
-            this.p71.Location = new System.Drawing.Point(428, 325);
+            this.p71.Location = new System.Drawing.Point(532, 322);
             this.p71.Multiline = true;
             this.p71.Name = "p71";
             this.p71.Size = new System.Drawing.Size(35, 35);
@@ -834,7 +834,7 @@
             // 
             // p62
             // 
-            this.p62.Location = new System.Drawing.Point(469, 284);
+            this.p62.Location = new System.Drawing.Point(573, 281);
             this.p62.Multiline = true;
             this.p62.Name = "p62";
             this.p62.Size = new System.Drawing.Size(35, 35);
@@ -843,7 +843,7 @@
             // 
             // p74
             // 
-            this.p74.Location = new System.Drawing.Point(551, 325);
+            this.p74.Location = new System.Drawing.Point(655, 322);
             this.p74.Multiline = true;
             this.p74.Name = "p74";
             this.p74.Size = new System.Drawing.Size(35, 35);
@@ -885,7 +885,7 @@
             // 
             // label1
             // 
-            this.label1.Location = new System.Drawing.Point(384, 12);
+            this.label1.Location = new System.Drawing.Point(488, 9);
             this.label1.Name = "label1";
             this.label1.Size = new System.Drawing.Size(366, 23);
             this.label1.TabIndex = 84;
@@ -893,7 +893,7 @@
             // 
             // label2
             // 
-            this.label2.Location = new System.Drawing.Point(384, 404);
+            this.label2.Location = new System.Drawing.Point(488, 401);
             this.label2.Name = "label2";
             this.label2.Size = new System.Drawing.Size(366, 23);
             this.label2.TabIndex = 85;
@@ -903,7 +903,7 @@
             // 
             this.winner_label.AutoSize = true;
             this.winner_label.Font = new System.Drawing.Font("Microsoft Sans Serif", 10.2F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.winner_label.Location = new System.Drawing.Point(12, 384);
+            this.winner_label.Location = new System.Drawing.Point(12, 419);
             this.winner_label.Name = "winner_label";
             this.winner_label.Size = new System.Drawing.Size(0, 20);
             this.winner_label.TabIndex = 86;
@@ -932,7 +932,7 @@
             // 
             this.label5.AutoSize = true;
             this.label5.Font = new System.Drawing.Font("Microsoft Sans Serif", 10.2F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.label5.Location = new System.Drawing.Point(12, 343);
+            this.label5.Location = new System.Drawing.Point(12, 378);
             this.label5.Name = "label5";
             this.label5.Size = new System.Drawing.Size(183, 20);
             this.label5.TabIndex = 89;
@@ -942,7 +942,7 @@
             // 
             this.label6.AutoSize = true;
             this.label6.Font = new System.Drawing.Font("Microsoft Sans Serif", 10.2F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.label6.Location = new System.Drawing.Point(12, 363);
+            this.label6.Location = new System.Drawing.Point(12, 398);
             this.label6.Name = "label6";
             this.label6.Size = new System.Drawing.Size(134, 20);
             this.label6.TabIndex = 90;
@@ -952,7 +952,7 @@
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(8F, 16F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
-            this.ClientSize = new System.Drawing.Size(800, 450);
+            this.ClientSize = new System.Drawing.Size(964, 468);
             this.Controls.Add(this.label6);
             this.Controls.Add(this.label5);
             this.Controls.Add(this.label4);
